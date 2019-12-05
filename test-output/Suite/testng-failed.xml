@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.uIFrameWork.companyName.projectNmae.hepler.listener.ExtentListener"/>
+  </listeners>
+  <test name="LoginTest">
+    <classes>
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest"/>
+    </classes>
+  </test> <!-- LoginTest -->
+  <test name="RegistrationTest">
+    <classes>
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest"/>
+    </classes>
+  </test> <!-- RegistrationTest -->
+</suite> <!-- Failed suite [Suite] -->

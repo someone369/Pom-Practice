@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_50_59.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_50_59.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_09.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_09.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_16.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_16.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_24.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_24.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_29.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_29.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_37.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_37.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_41.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_41.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67276" started-at="2019-12-04T11:20:38Z" finished-at="2019-12-04T11:21:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67276" started-at="2019-12-04T11:20:38Z" finished-at="2019-12-04T11:21:45Z">
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeSuite" is-config="true" duration-ms="222" started-at="2019-12-04T16:50:38Z" finished-at="2019-12-04T16:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeTest" is-config="true" duration-ms="12394" started-at="2019-12-04T16:50:38Z" finished-at="2019-12-04T16:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeClass" is-config="true" duration-ms="9798" started-at="2019-12-04T16:50:50Z" finished-at="2019-12-04T16:51:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_50_59.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_50_59.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-12-04T16:51:02Z" finished-at="2019-12-04T16:51:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="logInTestWithDatadriven" duration-ms="14445" started-at="2019-12-04T16:51:02Z" data-provider="testData" finished-at="2019-12-04T16:51:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1575395454920@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1575395461247new]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_09.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_09.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logInTestWithDatadriven -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="afterMethod" is-config="true" duration-ms="1387" started-at="2019-12-04T16:51:16Z" finished-at="2019-12-04T16:51:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logInTestWithDatadriven status=SUCCESS method=LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_16.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_16.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-12-04T16:51:17Z" finished-at="2019-12-04T16:51:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="logInTestWithDatadriven" duration-ms="11466" started-at="2019-12-04T16:51:17Z" data-provider="testData" finished-at="2019-12-04T16:51:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1575395692238@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1575395697989new]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_24.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_24.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logInTestWithDatadriven -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="afterMethod" is-config="true" duration-ms="586" started-at="2019-12-04T16:51:29Z" finished-at="2019-12-04T16:51:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logInTestWithDatadriven status=SUCCESS method=LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_29.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_29.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-12-04T16:51:30Z" finished-at="2019-12-04T16:51:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="logInTestWithDatadriven" duration-ms="11971" started-at="2019-12-04T16:51:30Z" data-provider="testData" finished-at="2019-12-04T16:51:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1575429521247@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1575429526860new]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_37.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_04_12_2019_04_51_37.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logInTestWithDatadriven -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="afterMethod" is-config="true" duration-ms="619" started-at="2019-12-04T16:51:41Z" finished-at="2019-12-04T16:51:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=logInTestWithDatadriven status=SUCCESS method=LogInTestWithDatadrivenApproach.logInTestWithDatadriven(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_41.png'><img src='G:\workspace\POM-Practice\resources\screenShots\logInTestWithDatadriven_04_12_2019_04_51_41.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach@2344fc66]" name="afterTest" is-config="true" duration-ms="2962" started-at="2019-12-04T16:51:42Z" finished-at="2019-12-04T16:51:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LogInTestWithDatadrivenApproach -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

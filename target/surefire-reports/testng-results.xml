@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[LoginTest Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[testLoginToApplication Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_55_52.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_55_52.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_01.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_01.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testLoginToApplication Test Passed..]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\testLoginToApplication_05_12_2019_12_56_03.png'><img src='G:\workspace\POM-Practice\resources\screenShots\testLoginToApplication_05_12_2019_12_56_03.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[LoginTest Test Finished..]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[testRegistrationTest Test Started..]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_26.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_26.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_36.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_36.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_37.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_37.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_46.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_46.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[testRegistrationTest Test Passed..]]>
+    </line>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\testRegistrationTest_05_12_2019_12_56_47.png'><img src='G:\workspace\POM-Practice\resources\screenShots\testRegistrationTest_05_12_2019_12_56_47.png'height='100' width='100'/></a>]]>
+    </line>
+    <line>
+      <![CDATA[RegistrationTest Test Finished..]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="82604" started-at="2019-12-05T07:25:26Z" finished-at="2019-12-05T07:26:49Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="40224" started-at="2019-12-05T07:25:26Z" finished-at="2019-12-05T07:26:07Z">
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407]" name="beforeTest" is-config="true" duration-ms="14511" started-at="2019-12-05T12:55:27Z" finished-at="2019-12-05T12:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407]" name="beforeMethod" is-config="true" duration-ms="13" started-at="2019-12-05T12:55:41Z" finished-at="2019-12-05T12:55:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407]" name="testLoginToApplication" duration-ms="21876" started-at="2019-12-05T12:55:41Z" description="Login test with valid credentials" finished-at="2019-12-05T12:56:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_55_52.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_55_52.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_01.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_01.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testLoginToApplication Test Passed..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407]" name="afterMethod" is-config="true" duration-ms="1231" started-at="2019-12-05T12:56:03Z" finished-at="2019-12-05T12:56:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\testLoginToApplication_05_12_2019_12_56_03.png'><img src='G:\workspace\POM-Practice\resources\screenShots\testLoginToApplication_05_12_2019_12_56_03.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest@4883b407]" name="afterTest" is-config="true" duration-ms="2418" started-at="2019-12-05T12:56:04Z" finished-at="2019-12-05T12:56:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uIFrameWork.companyName.projectNmae.testScript.LogInPage.LoginTest -->
+    </test> <!-- LoginTest -->
+    <test name="RegistrationTest" duration-ms="42249" started-at="2019-12-05T07:26:07Z" finished-at="2019-12-05T07:26:49Z">
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="beforeSuite" is-config="true" duration-ms="212" started-at="2019-12-05T12:55:26Z" finished-at="2019-12-05T12:55:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="beforeTest" is-config="true" duration-ms="9998" started-at="2019-12-05T12:56:07Z" finished-at="2019-12-05T12:56:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="beforeMethod" is-config="true" duration-ms="2" started-at="2019-12-05T12:56:17Z" finished-at="2019-12-05T12:56:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest.testRegistrationTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testRegistrationTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="testRegistrationTest" duration-ms="30402" started-at="2019-12-05T12:56:17Z" description="Regestring the new emailAddress in to the application" finished-at="2019-12-05T12:56:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_26.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_26.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_36.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_36.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_37.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_37.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_46.png'><img src='G:\workspace\POM-Practice\resources\screenShots\blank_05_12_2019_12_56_46.png'height='100' width='100'/></a>]]>
+            </line>
+            <line>
+              <![CDATA[testRegistrationTest Test Passed..]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRegistrationTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="afterMethod" is-config="true" duration-ms="512" started-at="2019-12-05T12:56:47Z" finished-at="2019-12-05T12:56:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testRegistrationTest status=SUCCESS method=RegistrationTest.testRegistrationTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='G:\workspace\POM-Practice\resources\screenShots\testRegistrationTest_05_12_2019_12_56_47.png'><img src='G:\workspace\POM-Practice\resources\screenShots\testRegistrationTest_05_12_2019_12_56_47.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest@3fee9989]" name="afterTest" is-config="true" duration-ms="1331" started-at="2019-12-05T12:56:48Z" finished-at="2019-12-05T12:56:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uIFrameWork.companyName.projectNmae.testScript.RegistrationPage.RegistrationTest -->
+    </test> <!-- RegistrationTest -->
+  </suite> <!-- Suite -->
+</testng-results>

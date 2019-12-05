@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <listeners>
+    <listener class-name="com.uIFrameWork.companyName.projectNmae.hepler.listener.ExtentListener"/>
+  </listeners>
+  <test name="A">
+    <classes>
+      <class name="com.uIFrameWork.A"/>
+    </classes>
+  </test> <!-- A -->
+  <test name="B">
+    <classes>
+      <class name="com.uIFrameWork.B"/>
+    </classes>
+  </test> <!-- B -->
+  <test name="C">
+    <classes>
+      <class name="com.uIFrameWork.C"/>
+    </classes>
+  </test> <!-- C -->
+  <test name="TestScreenShot">
+    <classes>
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.TestScreenShot"/>
+    </classes>
+  </test> <!-- TestScreenShot -->
+  <test name="B(failed)">
+    <classes>
+      <class name="com.uIFrameWork.B">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="testLoginB"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.B -->
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.TestScreenShot">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.companyName.projectNmae.testScript.TestScreenShot -->
+      <class name="com.uIFrameWork.A">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.A -->
+      <class name="com.uIFrameWork.C">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.C -->
+    </classes>
+  </test> <!-- B(failed) -->
+  <test name="C(failed)">
+    <classes>
+      <class name="com.uIFrameWork.B">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.B -->
+      <class name="com.uIFrameWork.companyName.projectNmae.testScript.TestScreenShot">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.companyName.projectNmae.testScript.TestScreenShot -->
+      <class name="com.uIFrameWork.A">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.A -->
+      <class name="com.uIFrameWork.C">
+        <methods>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeTest"/>
+          <include name="testLoginC"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.uIFrameWork.C -->
+    </classes>
+  </test> <!-- C(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
