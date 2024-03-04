@@ -36,7 +36,11 @@ public class AppTest
         assertTrue( true );
     }
     
-    public static void main(String[] args) {
+    public static void name() {
+		
+	}
+    
+    public static    void main(String[] args) {
 		
 	}
 }
