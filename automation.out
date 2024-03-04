@@ -2332,3 +2332,32 @@ Reference: Highest first
 2019-12-05 12:12:621 INFO  ExtentListener:64 - testRegistrationTest Test Passed..
 2019-12-05 12:12:66 INFO  TestBase:92 - ************** testRegistrationTest Finished***************
 2019-12-05 12:12:472 INFO  ExtentListener:24 - RegistrationTest Test Finished..
+2024-03-05 00:03:354 INFO  TestBase:126 - unknown error: cannot find Chrome binary
+Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
+System info: host: 'SIRIKI', ip: '192.168.181.156', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.9'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x006DEB13+1501971]
+	Ordinal0 [0x0065F6D1+980689]
+	Ordinal0 [0x005E765F+489055]
+	Ordinal0 [0x0057B7ED+47085]
+	Ordinal0 [0x00599800+169984]
+	Ordinal0 [0x0059942D+169005]
+	Ordinal0 [0x005978EB+162027]
+	Ordinal0 [0x00580AC7+68295]
+	Ordinal0 [0x00581B40+72512]
+	Ordinal0 [0x00581AD9+72409]
+	Ordinal0 [0x00678F37+1085239]
+	GetHandleVerifier [0x0077D7ED+503293]
+	GetHandleVerifier [0x0077D580+502672]
+	GetHandleVerifier [0x007846AC+531644]
+	GetHandleVerifier [0x0077DFFA+505354]
+	Ordinal0 [0x00670606+1050118]
+	Ordinal0 [0x0067047F+1049727]
+	Ordinal0 [0x0067AF9B+1093531]
+	Ordinal0 [0x0067B103+1093891]
+	Ordinal0 [0x0067A095+1089685]
+	BaseThreadInitThunk [0x76327BA9+25]
+	RtlInitializeExceptionChain [0x77BDBDAB+107]
+	RtlClearBits [0x77BDBD2F+191]
+
